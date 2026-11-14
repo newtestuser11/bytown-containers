@@ -1,0 +1,3 @@
+Q1: The file was lost because it was stored inside the container. Without a volume, the file is deleted along with the container.
+Q2: The web service has no published port because only the proxy needs to be accessible from my computer. The proxy forwards requests to the web service.
+Q3: An image is a package containing the files needed to run an application, while a container is an instance created from that image.
